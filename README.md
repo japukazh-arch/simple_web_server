@@ -1,7 +1,8 @@
 # EX01 - Developing a Simple Webserver
 
-# Date:13/11/2026
-# AIM:To develop a simple webserver to serve html pages and display the configuration details of laptop.
+# Date: 13/11/2026
+# AIM:
+To develop a simple webserver to serve html pages and display the configuration details of laptop.
 
 # DESIGN STEPS:
 ## Step 1:
@@ -88,7 +89,10 @@ httpd=HTTPServer(server_address,Myserver)
 httpd.serve_forever()
 ~~~
 # OUTPUT:
-neww/simple_web_server/img/Screenshot (27).png
-neww/simple_web_server/img/Screenshot (28).png
+
+<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/ab6a3c2b-be79-4cad-bf9d-9b449bfeadf5" />
+
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/e82f31fd-ef16-4a8b-9860-85da2f0c591b" />
+
 # RESULT:
 The program for implementing simple webserver is executed successfully.
